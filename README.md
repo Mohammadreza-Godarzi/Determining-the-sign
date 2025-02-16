@@ -1,2 +1,1 @@
-# Determining-the-sign
- 
+pleace install numpy, matplotlib, sympy .
