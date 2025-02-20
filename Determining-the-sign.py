@@ -2,8 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sympy import symbols, Eq, solve
 
-a = int(input("meghdar \"x²\" ra vared konid =>"))
-b = int(input("meghdar \"x\" ra vared konid =>"))
+print("plaese make your Quadratic equation as standard form like this : y = ax² + bx + c first !!")
+a = int(input("meghdar \"a\" ra vared konid =>"))
+b = int(input("meghdar \"b\" ra vared konid =>"))
 c = int(input("meghdar \"c\" ra vared konid =>"))
 
 x = symbols('x')
